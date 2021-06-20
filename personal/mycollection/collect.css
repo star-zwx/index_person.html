@@ -1,0 +1,12 @@
+body{background-image: url("background.jpg");background-attachment: fixed; width: 100%;height: 100%}
+
+body{  text-align: center;margin: 0 auto}
+#kong{text-align: center;height: 120px;width:100%;font-size: 55px;font-family: 黑体;color: #f5fafd;}
+
+#header{text-align: center;height: 80px;width:100%;font-size: 45px;font-family: 黑体;color: #f5fafd;}
+
+#arcitl{text-align: center;height: 600px;width:100%;font-size: 25px;font-family: 华文中宋;color: #f5fafd;}
+
+#picture{text-align: center;height: 400px;width:100%;font-size: 45px;font-family: 华文行楷;color: #f5fafd;}
+
+a{text-decoration:none;}

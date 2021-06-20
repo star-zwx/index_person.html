@@ -1,0 +1,46 @@
+body{background-image: url("backgroud.jpg");background-attachment: fixed}
+
+body{  text-align: center;margin: 0 auto}
+
+
+#daohang{text-align: left;color: #f5fafd;font-family: 华文行楷;font-size: 35px;}
+
+#touxiang{text-align: center;height: 180px;width:100%;font-size: 45px;font-family: 华文行楷;color: #f5fafd}
+
+#qianming{text-align: center;height: 110px;width:100%;font-size: 35px;font-family: 华文行楷;color: #f5fafd}
+
+#baotidaohang{text-align: center;height: 60px;width:100%;font-size: 5px;font-family: 宋体;color: #f5fafd;}
+#xiaolianjie{text-align: center;height: 60px;width:100%;font-size: 5px;font-family: 宋体;color: #f5fafd;}
+#tupian{
+    width:3cm;
+    height:3cm;
+    margin: 2em auto;
+    background: #fff;
+    border-radius: 10%;
+    border: #fff 5px solid;
+    transition: transform 0.5s;
+}
+
+#baotidaohang ul{list-style: none;
+    font-size: 22px;
+    line-height: 40px;
+    text-align: center;
+}
+#baotidaohang ul li{margin-right:15px;
+    float:right;text-align: center;
+    width: 100px;}
+
+
+
+.navigation__item a {
+    padding: 10px 10px;
+    border: 1px solid #fafdf6;
+    border-radius: 20px;
+    font-size: 10px;
+    font-weight: bold;
+    letter-spacing: 5px;
+    text-shadow: none;
+    color: #cdd8d3;
+    -webkit-font-smoothing: antialiased;
+}
+a{text-decoration:none}
